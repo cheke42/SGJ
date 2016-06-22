@@ -1,0 +1,27 @@
+.table>thead>tr.info>th{
+		background-color: #333333;
+		color: #ffffff;
+	}
+	#tablaPersonalizada_length select,#tablaPersonalizada_filter input{
+		color: #000000;
+	}
+	 #tablaPersonalizada_length,#tablaPersonalizada_filter{
+	 	width: 50%;
+	 	display: inline-block;
+		color: #333333;
+	 }
+	 #tablaPersonalizada_filter{
+	 	text-align: right;
+	 }
+
+	 #tablaPersonalizada_info{
+	 	font-size: 12px;
+	 	font-weight: normal;
+	 }
+
+	 #tablaPersonalizada_paginate{
+	 	text-align: center;
+	 }
+
+	
+
